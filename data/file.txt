@@ -1,0 +1,5 @@
+This is Waqas, today we are learning git.
+We are learning more git commands today
+This text is entered using nano.
+This text is entered using vi.
+some changes
